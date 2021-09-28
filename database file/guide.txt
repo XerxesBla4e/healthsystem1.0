@@ -1,0 +1,1 @@
+import sql file in wamp or xamp server
